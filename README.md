@@ -40,8 +40,8 @@ I have keen interest in Machine Learning and Web Development.
 
 -  📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/-Swati_Rai-2867B2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/swatirai1410/)
-[![Twitter](https://img.shields.io/badge/-raiswati\_14-1da1f2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/raiswati_14/)
-[![Instagram](https://img.shields.io/badge/-\_swati\_rai14-833ab4?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/_swati_rai14/)
+[![Twitter](https://img.shields.io/badge/-raiswati14-1da1f2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/raiswati_14/)
+[![Instagram](https://img.shields.io/badge/-swatirai14-833ab4?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/_swati_rai14/)
 [![Gmail](https://img.shields.io/badge/-Swati_Rai-DB4437?style=flat&logo=Gmail&logoColor=white)](mailto:rai1410swati@gmail.com)
 
 ***
