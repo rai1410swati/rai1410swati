@@ -32,9 +32,9 @@ I have keen interest in Machine Learning and Web Development.
 
 ***
 
--  🌱 I’m currently learning about Deep Learning
+-  🌱 I’m currently learning about Tensorflow, Keras
 
--  💬 Ask me about Python, Machine Learning, Frontend Web Development.
+-  💬 Ask me about Python, Machine Learning, Frontend Web Development, Open CV.
 
 -  😄 Pronouns: She/Her
 
