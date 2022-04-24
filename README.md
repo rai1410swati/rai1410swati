@@ -12,10 +12,12 @@ I have keen interest in Machine Learning and Web Development.
 
 - Languages: &nbsp;
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c++&logoColor=563D7C)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=563D7C)
   ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=563D7C)
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=563D7C)
 
 - Frameworks: &nbsp;
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
@@ -32,9 +34,9 @@ I have keen interest in Machine Learning and Web Development.
 
 ***
 
--  🌱 I’m currently learning about Tensorflow, Keras
+-  🌱 I’m currently exploring Spring Framework, React, Redux.
 
--  💬 Ask me about Python, Machine Learning, Frontend Web Development, Open CV.
+-  💬 Ask me about C++, Java, Machine Learning, Frontend Web Development.
 
 -  😄 Pronouns: She/Her
 
