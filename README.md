@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rai1410swati&label=MyProfileViews&color=blue&style=plastic%22%20alt=%22rai1410swati" /> </p>
 
-I am Swati Rai, a Third Year Undergraduate of Electronics and Communication Engineering at Institute of Engineering & Management, Kolkata. 
+I am Swati Rai, a Fourth Year Undergraduate of Electronics and Communication Engineering at Institute of Engineering & Management, Kolkata. 
 I have keen interest in Machine Learning and Web Development.
 
 ***
